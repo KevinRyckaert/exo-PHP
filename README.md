@@ -1,4 +1,4 @@
-# Exo ![PHP](https://www.php.net/images/logos/new-php-logo.png)
+# ![PHP](https://www.php.net/images/logos/new-php-logo.png)
 
 
 
