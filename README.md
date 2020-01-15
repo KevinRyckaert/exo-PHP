@@ -1,7 +1,7 @@
 # Exo PHP
 
 
-[![forthebadge][![forthebadge](https://forthebadge.com/images/badges/made-with-php.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
 Une petite description du projet
 
