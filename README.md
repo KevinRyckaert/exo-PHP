@@ -5,9 +5,9 @@
 
 Une petite description du projet
 
-## Description du projet
+## Langues
+:fr: :be:
 
-Entrez ici les instructions pour bien débuter avec votre projet...
 
 ### Pré-requis
 
