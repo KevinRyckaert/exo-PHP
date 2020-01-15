@@ -5,15 +5,15 @@
 
 Exercices PHP
 
-Les variables
-Les conditions
-Les boucles
-Les fonctions
-Les tableaux
-Les paramètres
-Les formulaires
-Les variables globales, $SESSION
-Les dates
+* Les variables
+* Les conditions
+* Les boucles
+* Les fonctions
+* Les tableaux
+* Les paramètres
+* Les formulaires
+* Les variables globales, $SESSION
+* Les dates
 
 
 ## Langues
