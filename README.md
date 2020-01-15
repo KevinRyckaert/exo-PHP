@@ -3,10 +3,21 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-Une petite description du projet
+Exercices PHP
+
+Les variables
+Les conditions
+Les boucles
+Les fonctions
+Les tableaux
+Les paramètres
+Les formulaires
+Les variables globales, $SESSION
+Les dates
+
 
 ## Langues
-:fr: :be:
+:fr: :belgium:
 
 
 ### Pré-requis
