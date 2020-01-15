@@ -3,7 +3,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-Exercices PHP
+## Exercices PHP
 
 * Les variables
 * Les conditions
@@ -20,7 +20,7 @@ Exercices PHP
 :fr: :belgium:
 
 
-### Pré-requis
+## Pré-requis
 
 Aucun pré-requis.
 
