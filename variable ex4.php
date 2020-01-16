@@ -9,7 +9,8 @@
 
 <?php
 
-$nbr = NULL;
-    echo $nbr;
-$nbr = 100;
-    echo $nbr;
+    $nbr = NULL;
+        echo $nbr;
+    $nbr = 100;
+        echo $nbr;
+?>

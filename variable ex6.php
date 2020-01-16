@@ -14,12 +14,12 @@
 
 <?php
 
-$prix = 785;
+    $prix = 785;
 
-$solde = $prix*(30/100);
+    $solde = $prix*(30/100);
 
-$newPrix = $prix - $solde;
+    $newPrix = $prix - $solde;
 
-    echo "une ristourne de $solde € sur 785 € et le prix que tu vas payé est $newPrix €";
-
+        echo "une ristourne de $solde € sur 785 € et le prix que tu vas payé est $newPrix €";
+?>
     

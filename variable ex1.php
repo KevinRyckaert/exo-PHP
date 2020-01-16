@@ -7,10 +7,12 @@
 -->
 <?php
 
-$nom = "Ryckaert";
+    $nom = "Ryckaert";
 
-$prenom = "Kevin";
+    $prenom = "Kevin";
 
-$age = 29;
+    $age = 29;
 
-    echo " Bonjour $prenom enfant de la famille $nom atteint le level $age !";
+        echo " Bonjour $prenom enfant de la famille $nom atteint le level $age !";
+?>
+

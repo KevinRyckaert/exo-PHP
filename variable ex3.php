@@ -10,18 +10,18 @@
 
 <?php
 
-$str = "string";
-    echo "$str </br>";
+    $str = "string";
+        echo "$str </br>";
 
-$nbrInt = 10;
-    echo "$nbrInt </br>";
+    $nbrInt = 10;
+        echo "$nbrInt </br>";
 
-$nbrFlt = 5.5;
-    echo "$nbrFlt </br>";
+    $nbrFlt = 5.5;
+        echo "$nbrFlt </br>";
 
-$trueAndFals = true;
-    echo "$trueAndFals </br>";
-
+    $trueAndFals = true;
+        echo "$trueAndFals </br>";
+?>
 
 
 
