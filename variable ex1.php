@@ -8,7 +8,9 @@
 <?php
 
 $nom = "Ryckaert";
+
 $prenom = "Kevin";
+
 $age = 29;
 
-print(" Bonjour, " . $prenom . " enfant de la famille " . $nom . " atteint de level " . $age . " ! ");
+    echo " Bonjour $prenom enfant de la famille $nom atteint le level $age !";

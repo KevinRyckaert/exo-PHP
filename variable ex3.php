@@ -1,23 +1,26 @@
 <!--
     Exercice 3
 
-    Créer une variable de type string, une variable de type int, une variable de type float, une variable de type booléan et les initialiser avec une valeur de votre choix.
+    Créer une variable de type string, une variable de type int, 
+    
+    une variable de type float, une variable de type booléan et les initialiser avec une valeur de votre choix.
+
     Les afficher.
 -->
 
 <?php
 
 $str = "string";
-    var_dump ($str);
+    echo "$str </br>";
 
 $nbrInt = 10;
-    var_dump ($nbrInt);
+    echo "$nbrInt </br>";
 
 $nbrFlt = 5.5;
-    var_dump ($nbrFlt);
+    echo "$nbrFlt </br>";
 
 $trueAndFals = true;
-    var_dump ($trueAndFals);
+    echo "$trueAndFals </br>";
 
 
 

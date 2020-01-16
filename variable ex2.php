@@ -7,9 +7,12 @@ Changer sa valeur par 125. Afficher son contenu.
 -->
 
 <?php
+
 $km = 1;
-    print ($km). '</br>';
+    echo $km;'</br>';
+
 $km = 3;
-    print ($km). '</br>';
+    echo $km;'</br>';
+
 $km = 125;
-    print ($km). '</br>';
+    echo $km;'</br>';
