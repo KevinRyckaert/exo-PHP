@@ -30,9 +30,11 @@ Aucun pré-requis.
 
 ## Fabriqué avec
 
-* [VS Code](https://code.visualstudio.com/) -éditeur de codes
+* [VS Code (version 1.41)](https://code.visualstudio.com/) -éditeur de codes
 
-* [PHP](http://PHP.net) -  langage de scripts généraliste et Open Source (Back-end)
+* [HTML5](https://www.w3.org/) - langage de balisage
+
+* [PHP (version 7.2.26)](http://PHP.net) -  langage de scripts (Back-end)
 
 
 ## Auteurs
